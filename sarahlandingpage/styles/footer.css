@@ -1,0 +1,21 @@
+footer {
+    background: rgba(0, 0, 0, 0.185);
+    color: white;
+    margin-top: 20px;
+    border-radius: 20px;
+    column-count: 2;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+footer h1 {
+    font-size: 15pt;
+    margin-bottom: 10px;
+}
+
+footer img {
+    width: 300px;
+}

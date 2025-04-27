@@ -1,0 +1,22 @@
+.iB-1{
+    position: fixed;
+    top: 50%;
+    width: 150px;
+    z-index: -1;
+}
+
+.iB-2{
+    position: fixed;
+    top: 30%;
+    right: 20px;
+    width: 250px;
+    z-index: -1;
+}
+
+.iB-3{
+    position: fixed;
+    top: 15%;
+    left: 40px;
+    width: 80px;
+    z-index: -1;
+}
