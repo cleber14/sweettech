@@ -137,6 +137,10 @@ ul  li img {
   margin-bottom: 30px;
 }
 
+.linkProducts {
+  text-decoration: none;
+}
+
 footer a {
   color: white;
   font-weight: bold;
